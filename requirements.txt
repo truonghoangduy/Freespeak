@@ -1,0 +1,14 @@
+sklearn
+numpy==1.17.4
+tensorflow==2.0.1
+pandas==1.0.2
+qdarkstyle==2.8.1
+argparse==1.1
+joblib==0.14.1
+librosa==0.7.2
+soundfile
+opencv-python
+glob3
+matplotlib==3.2.0
+pydub==0.23.1
+pyqt5

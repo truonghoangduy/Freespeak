@@ -1,0 +1,8 @@
+*.avi
+*.pyc
+*__pycache__/
+*.csv
+*.wav
+*.txt
+!requirements.txt
+*.png
